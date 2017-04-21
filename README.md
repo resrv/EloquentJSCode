@@ -4,7 +4,12 @@ SourceCode for the exercises in [Eloquent JavaScript Book](http://eloquentjavasc
 
 The source code for the following chapter have been uploaded :
 
-### [Chapter 2](https://github.com/resrv/EloquentJSCode/tree/master/code/Chapter2) :
+### [Chapter 2: Program Structures](https://github.com/resrv/EloquentJSCode/tree/master/code/Chapter2) :
 - Looping Triangle
 - FizzBuzz
 - ChessBoard
+
+### [Chapter 3: Functions](https://github.com/resrv/EloquentJSCode/tree/master/code/Chapter3) :
+- Bean Counting
+- Minimum
+- Recursion
