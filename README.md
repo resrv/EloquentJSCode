@@ -13,3 +13,9 @@ The source code for the following chapter have been uploaded :
 - Bean Counting
 - Minimum
 - Recursion
+
+### Chapter 4:  [Data Structures: Objects and Arrays] (https://github.com/resrv/EloquentJSCode/tree/master/code/Chapter4) :
+-SumRange
+-arrayreverse
+-list
+-deepcomparision
