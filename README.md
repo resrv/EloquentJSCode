@@ -19,3 +19,9 @@ The source code for the following chapter have been uploaded :
 - arrayreverse
 - list
 - deepcomparision
+
+### [Chapter 5: Higher-Order Functions](https://github.com/resrv/EloquentJSCode/tree/master/code/Chapter5) :
+- Flattening
+- MotherChild
+- LifeExpectency
+- SomeEvery
